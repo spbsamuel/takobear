@@ -1,0 +1,13 @@
+{
+  "name": "takobear",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:spbsamuel/takobear.git",
+  "author": "samuel <spbsamuel@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.11.0"
+  }
+}
